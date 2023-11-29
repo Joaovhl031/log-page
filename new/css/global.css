@@ -1,0 +1,13 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+body {
+    background-image: url(../assets/naruto.jpg);
+
+}
+
+a {
+    text-decoration: none;
+    color: #2fb15b;
+}
